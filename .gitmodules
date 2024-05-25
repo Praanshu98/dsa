@@ -1,0 +1,3 @@
+[submodule "resources/online_courses/StephenGrider"]
+	path = resources/online_courses/StephenGrider
+	url = git@github.com:StephenGrider/AlgoCasts.git

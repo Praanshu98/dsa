@@ -4,8 +4,7 @@
 
 ### Week 1: Programming Fundamentals and Mathematical Foundations
 
-- **Day 1-2**: Review basic programming concepts (variables, loops, functions) in your chosen language.
-- **Day 3-4**: Learn about discrete mathematics basics (sets, logic, permutations, combinations).
+- **Day 1-4**: Review basic programming concepts (variables, loops, functions) in your chosen language.
 - **Day 5-6**: Study Big O Notation and complexity analysis.
 - **Day 7**: Solve basic problems on platforms like LeetCode or HackerRank.
 
